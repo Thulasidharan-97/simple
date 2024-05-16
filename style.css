@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    background-color: chartreuse;
+    color: black;
+    border-radius: 20px;
+}
+img{
+    
+    margin-left: 500px;
+    border-radius: 25px;
+    width: 700px;
+    height: 400px;
+}
